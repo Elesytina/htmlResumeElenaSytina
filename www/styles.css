@@ -1,0 +1,20 @@
+
+*{ margin: 0; padding: 0; }
+           P { padding: 10px; }
+           #left { position: absolute; left: 0; top: 0;bottom:1%; width: 20%; background:#575757; 
+                   color:#ffffff ; margin-left: 1%}
+           #right { position: absolute; right: 0; top: 0; width: 67%; margin-right: 10%} 
+           HR { 
+               display: block;
+               margin-top: 0.5em;
+               margin-bottom: 0.5em;
+               margin-left: auto;
+               margin-right: auto;
+               border-style: inset;
+               border-width: 1px;
+} 
+           H2{color:black; font-family:serif }
+           #experiance{text-align:left; font-size:medium; font-style:normal}
+           #education{text-align:left; font-size:medium; font-style:normal}
+           A{color:#575757}
+           LI{list-style:none}
